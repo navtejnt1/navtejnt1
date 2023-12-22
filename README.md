@@ -5,10 +5,15 @@
 **🎓 Education:** B.Tech in Computer Science and M.Tech in Information Technology
 
 **✨ Technical Skills:**
+
 **Languages:** C, Java
+
 **Web Development:** HTML, CSS, JavaScript, React
+
 **Tools & Platforms:** Linux, Git, GitHub
+
 **Data Structures & Algorithms:** Proficient
+
 **📷 Beyond Technology:**
 I am not just a coder; I'm also a passionate photographer who finds joy in capturing the scenic beauty around me.
 
@@ -17,4 +22,5 @@ Eager to embark on my professional journey, I am actively seeking Software Devel
 **Github :** https://github.com/navtejnt1
 
 **LinkedIn:** https://www.linkedin.com/in/navtej-anand/
+
 **Portfolio** https://navtejnt1.github.io
