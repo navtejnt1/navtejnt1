@@ -26,7 +26,7 @@ Eager to embark on my professional journey, I am actively seeking Software Devel
 
 **Portfolio** https://navtejnt1.github.io
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=navtejnt1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=navtejnt1&theme=dark)]
 
 
 
