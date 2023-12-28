@@ -1,4 +1,7 @@
-**👋 Name:** Navtej Anand
+<h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Navtej Anand</h1>
+
+<h3 align="center">A passionate Full Stack Web Developer currently immersed in MERN stack <h3/>
+
 
 **📍 Location:** Dehradun, Uttarakhand
 
