@@ -26,10 +26,9 @@ Eager to embark on my professional journey, I am actively seeking Software Devel
 
 **Portfolio** https://navtejnt1.github.io
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=navtejnt1&theme=dark)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=navtejnt1&theme=dark)
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navtejnt1&theme=dark)
 
 
 
