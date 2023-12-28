@@ -26,6 +26,10 @@ Eager to embark on my professional journey, I am actively seeking Software Devel
 
 **Portfolio** https://navtejnt1.github.io
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+
+
 
 - 📫 How to reach me **navtejnt1@gmail.com**
 
