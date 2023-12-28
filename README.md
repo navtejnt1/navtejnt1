@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Full Stack Web Developer currently immersed in MERN stack <h3/>
 
 
+
 **📍 Location:** Dehradun, Uttarakhand
 
 **🎓 Education:** B.Tech in Computer Science and M.Tech in Information Technology
