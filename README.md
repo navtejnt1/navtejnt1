@@ -27,10 +27,8 @@ Eager to embark on my professional journey, I am actively seeking Software Devel
 **Portfolio** https://navtejnt1.github.io
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=navtejnt1&theme=dark)
-
 ![Navtej's GitHub stats](https://github-readme-stats.vercel.app/api?username=navtejnt1&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navtejnt1&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navtejnt1&theme=dark&size_weight=0.5&count_weight=0.5)
 
 
 
