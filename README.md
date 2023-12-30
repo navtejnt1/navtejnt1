@@ -43,7 +43,7 @@ Eager to embark on my professional journey, I am actively seeking Software Devel
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/navtejnt1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="navtejnt1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/navtej-anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/navtej-anand/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/navtej-anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/navtej-anand/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/navtejnt1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="navtejnt1" height="30" width="40" /></a>
 <a href="https://instagram.com/navtej_nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navtej_nt" height="30" width="40" /></a>
 </p>
